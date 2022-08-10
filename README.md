@@ -1,6 +1,4 @@
-# Farm Dashboard
-
-## Description
+## Agricultural Drone Management Software
 Welcome to farm dashboard. An agricultural software application created by five UAB students. 
 Farm dashboard's goal is to help increase the productivity of large-scale farmers by automating 
 several manual functions performed by them, such as using drones with automated flight paths for 
