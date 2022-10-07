@@ -9,6 +9,15 @@ to create a virtual model of your farm. You can rename items and item containers
 they represent on your farm. You can initialize a drone and a drone command center that can scan 
 items individually or scan the whole farm.  
 
+## Set Up Instructions
+
+To run our project, type git clone https://github.com/kyiCS/Agricultural-Drone-Management.git
+to clone the repository. After that, open Eclipse, go to "File" in the top right, 
+and click on "Open Project from File System". Once there, choose the directory where you 
+cloned the project and click "Finish". Lastly, click on the imported project and run it as 
+a Java application. 
+
+
 
 
 ## Screenshots
